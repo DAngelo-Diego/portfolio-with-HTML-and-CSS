@@ -1,3 +1,4 @@
 portfolio using only html and css.
-built by me
- https://dangelo-diego.github.io/portfolio-with-HTML-and-CSS/
+built by me: 
+
+Click to view: https://dangelo-diego.github.io/portfolio-with-HTML-and-CSS/
